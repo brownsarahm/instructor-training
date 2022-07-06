@@ -18,10 +18,10 @@ keypoints:
 ## A Positive Environment for All
 
 As we have seen, there are many teaching practices that can make your workshop more positive and welcoming. 
-However, no workshop occurs in a vacuum: everyone's experiences begin and end and are influenced by the world beyond. 
+However, everyone's experiences begin, end, and are influenced by the world beyond a workshop; workshops do not occur in a vacuum. 
 In this section we will discuss some of the systemic barriers that can result in members 
 of some groups being excluded even in an otherwise welcoming environment. The fact that some groups face barriers 
-that others do not means we cannot take a one size fits all approach to creating a positive learning environment. 
+that others do not means a one size fits all approach will not successfully create a positive learning environment for all. 
 
 ### Definitions
 
@@ -44,7 +44,8 @@ integrated manner, with substantially equivalent ease of use.
 ### The Carpentries Core Values
 
 In 2019, The Carpentries formed a task force that worked with our community to identify 9 [Core Values][core-values] -- 
-things that we do, things that we are, and things that we champion. Many of these relate to equity, inclusion, and accessibility. 
+things that we do, things that we are, and things that we champion. Many of these relate to equity, inclusion, and accessibility, 
+which reinforces how important this topic is in our community. 
 
 > ## Discuss The Carpentries Core Values
 >
@@ -59,14 +60,15 @@ things that we do, things that we are, and things that we champion. Many of thes
 
 ## Accessibility
 
-Barriers to accessibility encountered in a workshop are demotivating at best and can exclude a learner entirely. 
+Barriers to accessibility encountered in a workshop can exclude a learner entirely. 
+Even if a learner is not excluded, these barriers are demotivating and therefore interfere with learning. 
 What barriers might be present in your workshop, and what can you do to remove them?
 
 
 > ## What Happens When Accessibility is an Issue?
 >
 > Think of a time when you have been affected by, or noticed someone else
-> being affected by barriers to accessibility. This may have been at a
+> being affected by, barriers to accessibility. This may have been at a
 > conference you attended where the elevator was out of service, or maybe
 > a class you were taking relied on audio delivery of content. Describe what happened,
 > how it impacted your (or someone else's) ability to be involved and what could
@@ -80,7 +82,8 @@ While it may not be possible to anticipate all needs,
 it *is* possible to get a good working structure in place
 without any knowledge of what specific disabilities people might have.
 Having some accommodations prepared also demonstrates care, helping 
-learners to trust that additional requests are likely to be well received.
+learners to trust that additional requests are likely to be well received. 
+This in turn increases the likelihood that learners will request what they need. 
 
 If you are playing the host role (or part of it), note that our [host template][handbook-host-template]
 includes an inquiry regarding accessibility needs. However, be aware that **many 
@@ -92,7 +95,7 @@ your workshop maximally accessible can relieve your participants of the need to 
 ### From Accommodation to Universal Design 
 Accommodation means changing things to serve an individual with a demonstrated need. 
 However, **accommodation puts the onus on the individual with the need** to 
-have to disclose their disability and ask for accommodations. Reluctance to 
+disclose their disability and ask for accommodations. Reluctance to 
 do so is understandable: requests for accommodation are often met with negative 
 emotions such as uncertainity, confusion, annoyance or anger by those receiving the requests.  
 
@@ -152,7 +155,7 @@ Carpentries communications channels can be a good place to ask for advice more b
 > *   *Do the easy things first.*
 >     There are plenty of ways to make workshops more accessible
 >     that are both quick to accomplish and minimal in demands on attention:
->     font choices, text size,
+>     font choices, text size, using captions online,
 >     checking in advance that your room is accessible via an elevator or ramp, etc.
 {: .callout}
 
@@ -185,7 +188,7 @@ think carefully about the language that we use and how we interact with our lear
 
 ### Stereotypes
 
-We all use stereotypes, and for good reason. They serve a cognitive purpose. 
+We all use stereotypes, and for good biological reason. They serve a cognitive purpose. 
 [One study][34gig] suggests we encounter more than 34 gigabytes of information every day. 
 That is more information than we could ever process, so our brains use shortcuts. 
 What an expert thing to do! Stereotypes are one of those shortcuts. As with other models, 
@@ -201,7 +204,7 @@ is associted with members of a group. Sterotypes:
 - can facilitate quick judgements in appropriate situations (e.g. stopping a child from driving a car)
 - can lead to systematically negative attitudes and behaviors towards members of certain groups 
 
-Stereotypes are dangerous when they are explicit, but they are especially hazardous when they are implicit. This 
+Stereotypes are dangerous when they are explicit and especially hazardous when they are implicit. This 
 means that the people holding them may not be aware of them, even though their perceptions are guided by them. 
 
 **When Instructors have stereotypes about learners**, this may lead them to:
@@ -213,7 +216,7 @@ means that the people holding them may not be aware of them, even though their p
 - develop a fixed mindset about aspects of their own capability
 - experience increased cognitive load when reminded about a stereotype, interfering with the learning process. This is known as *stereotype threat*.
 
-## What can we do about our own stereotypes?
+### What can we do about our own stereotypes?
 - Get to know people from many different groups! 
 - Observe your own behavior, and build awareness of situations in which your perceptions and behaviors are influenced by stereotypes.
 - Avoid calling attention to common stereotypes, even in a way that seems positive.
@@ -234,15 +237,16 @@ means that the people holding them may not be aware of them, even though their p
 
 ## Equity versus Equality
 We can monitor our own use of stereotypes, but the experiences that people have before and 
-after our workshop are beyond our control. Because these experiences are unequal, including 
+after our workshop are beyond our control. We aim to make Carpentries 
+programs *equitable* because our learners experiences beyond our workshops are unequal, including 
 historical and present-day differences in 
-access to resources, mentorship, and other avenues towards career success, we aim to make Carpentries 
-programs *equitable*. This means that, rather than offering the same access and experience to all, we 
-aim to use our programs to actively counter-balance unequal opportunities that have led to 
-disproportionate representation of certain groups in data-centric careers. 
+access to resources, mentorship, and other avenues towards career success. 
+This means that we aim to use our programs to actively counter-balance unequal opportunities that have led to 
+disproportionate representation of certain groups in data-centric careers, 
+rather than offering the same access and experience to all. 
 
 If you host a workshop, we encourage you to consider means of reaching out to historically under-represented 
-groups in your community who may be interested in attending. 
+groups in your community who may be interested in attending and extending an explicit invitation. 
 
 
 ## Inclusive Practices in a Carpentries Workshop
@@ -267,16 +271,16 @@ We will discuss the Code of Conduct in greater detail tomorrow.
 ### Listening with Assessment and Feedback
 
 Motivating practices like those discussed in the previous episode to invite participation and encourage a growth mindset can also 
-contribute to making a classroom more inclusive for diverse learners. 
-However, we cannot assume that any instructional approach has succeeded at fostering inclusion if we do not listen to our audience. 
+contribute to making a classroom more inclusive for a diverse set of learners. 
+However, we still need listen to our audience and not assume that any instructional approach has succeeded at fostering inclusion. 
 Explicitly seeking to learn from and attend to the concerns of your learners is key. If you find yourself feeling 
-uncertain about whether you are successfully including all learners, this is a good time to pause and create an opportunity 
+uncertain about whether you are successfully including all learners, that is a good time to pause and create an opportunity 
 to listen. 
 
 When you are actively providing avenues for feedback, there are two signs of trouble to watch out for: negative feedback, and a **lack of feedback**. 
-If an environment does not feel inclusive, many learners will not feel comfortable reporting this; indeed, they may not recognize it 
+Many learners will not feel comfortable reporting that the environment does not feel inclusive; indeed, they may not recognize it 
 themselves. It can be difficult to notice the people you are *not* hearing from in a room! When in doubt, communicate with your team and 
-work together to identify and (gently) check in with anyone you haven't heard from. In addition, examine your feedback processes to be sure you are 
+work together to identify and (gently) check in with anyone you have not heard from. In addition, examine your feedback processes to be sure you are 
 including opportunities for **anonymous feedback**.
 
 
@@ -287,7 +291,7 @@ use the word "just"! Monitoring your actions can also provide you with useful in
 differently with different people. This is normal! It is also an excellent way to identify patterns that may intefere with your 
 intent to create an inclusive environment for all. Did you answer the same question in different ways at different points? If so, why? 
 Who did you feel comfortable chatting with at break time, and who seemed harder to connect with? Did you offer help to anyone who 
-didn't ask for it? Who were you most eager to impress?
+did not ask for it? Who were you most eager to impress?
 
 Asking yourself questions like these is hard! Answering them is harder. 
 When you notice things that trouble you, keep a positive and simple goal in mind: to learn and to improve. 
