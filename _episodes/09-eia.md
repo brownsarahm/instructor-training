@@ -138,7 +138,7 @@ A good example of universal design is curb cuts
 and sidewalk ramps. While they were originally created to make it easier for
 wheelchair users to move around, they proved to be equally helpful to people with strollers and grocery carts.
 
-![Cartoon showing strollers, suitcases, bicycles, carts, and wheelchairs using curb cuts](../fig/sketchplanations-the-curb-cut-effect.png){: width="600px" }
+![People using different wheeled devices utilising the curb cut. The picture is titled The Curb-Cut Effect and states "when we design for disabilities, we make things better for everyone."](../fig/sketchplanations-the-curb-cut-effect.png){: width="600px" }
 Image: [Sketchplanations][sketchplanations-curb-cuts]
 
 
@@ -310,7 +310,8 @@ to all that the instructional team cares about their experience, creating
 an environment that is explicitly inclusive and supports safe focus
 on learning.
 
-We will discuss the Code of Conduct in greater detail tomorrow.
+We will discuss the Code of Conduct in greater detail in Part 4 of this training during
+our discussion of Working with your team.
 
 ### Listening with Assessment and Feedback
 

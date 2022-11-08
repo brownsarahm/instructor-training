@@ -16,10 +16,10 @@ need to take after this training to become a fully certified Carpentries Instruc
 
 ## Instructor Checkout
 
-After completing the Instructor Training workshop, there are three final steps to complete before qualifying as an Instructor. 
+After completing the Instructor Training workshop, there are [three final steps to complete](https://carpentries.github.io/instructor-training/checkout/index.html) before qualifying as an Instructor. 
 Briefly, the three steps are:
 
-1.  Make (and [send us a link](mailto:instructor.training@carpentries.org) to) a small contribution to a lesson or glossary.
+1.  Make a small contribution to a lesson or glossary.
 2.  Take part in an online community discussion session.
 3.  Take part in an online teaching demonstration session.
 
@@ -50,15 +50,16 @@ Extensions may be granted for any reason up to 1 year from your training date.
 > If you would prefer to do your teaching demonstration before your discussion,
 > visit the demo Etherpad and sign up there: <https://pad.carpentries.org/teaching-demos>
 > This demo [rubric]({{ page.root }}/demos_rubric/) is provided as a guide for Trainers evaluating potential new Instructors during the teaching demonstration.
->
->
+> 
+> If these pages are hard to navigate or you cannot find a suitable time, save these links where 
+> you can find them again and make a note to schedule these steps for your checkout process. 
+> 
 > This exercise should take 5 minutes.
 {: .challenge}
 
 ### What does a badge mean?
-* **You can teach any Carpentries workshops!** While your badge will indicate a lesson program that you selected for checkout, all Carpentries Instructor badges are valid to teach any Software Carpentry, Data Carpentry, or Library Carpentry lesson. While co-Instructors need not be badged, every Carpentries branded workshop must have at least one badged Instructor to lead the way. (More on branding in the next episode!)
+* **You can teach any Carpentries workshops!** Carpentries Instructor badges are valid to teach any Software Carpentry, Data Carpentry, or Library Carpentry lesson. While co-Instructors need not be badged, every Carpentries branded workshop must have at least one badged Instructor to lead the way. (More on branding in the next episode!)
 * **You get to vote!** Badged Instructors are eligible to vote in Carpentries Executive Council elections for their first year, and for all subsequent years in which they continue to participate through teaching or other involvement. See [this section from the Carpentries Bylaws][voting-rights] for rules governing continuing voting eligibility.
-* **You can register for Carpentries Bonus Modules!** New to The Carpentries in 2020, we are now offering short continuing education [modules][bonus-modules] for certified Instructors. The first of these targets preparing to teach online. Look out for more topics coming soon!
 * **You can share!** Looking for language to add to showcase your skills and experience on a CV or resume? [Here is some text][text-for-instructors] to get you started!
 
 
